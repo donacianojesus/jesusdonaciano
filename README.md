@@ -22,7 +22,7 @@ I love experimenting with different tech stacks, working on personal projects, a
 ---
 
 ## Current Projects
-- **VCT Predictor App** – Flask-based web app predicting Esports specifically Valorant Champions Tour match outcomes.  
+- **VCT Predictor App** – Flask-based web app predicting Esports, specifically Valorant Champions Tour match outcomes.  
 - **React/Node.js Demo App** – Full-stack demo project experimenting with modern SWE patterns and tooling.  
 
 ---
