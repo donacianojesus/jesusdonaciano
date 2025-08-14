@@ -36,6 +36,5 @@ I love experimenting with different tech stacks, working on personal projects, a
 
 ## Contact Me
 **Email:** jesus.donaciano@scranton.edu  
-**LinkedIn:** https://www.linkedin.com/in/jesus-donaciano-5637982b0/
-
+**LinkedIn:** https://www.linkedin.com/in/jesus-donaciano-5637982b0   
 **GitHub:** https://github.com/donacianojesus
