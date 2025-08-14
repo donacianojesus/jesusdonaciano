@@ -34,12 +34,8 @@ I love experimenting with different tech stacks, working on personal projects, a
 
 ---
 
-## Fun Fact
-When I’m not coding, I’m listening to Bladee, Elliott Smith, Slowdive, and other artists that make debugging just a little more poetic.  
-
----
-
 ## Contact Me
 **Email:** jesus.donaciano@scranton.edu  
 **LinkedIn:** https://www.linkedin.com/in/jesus-donaciano-5637982b0/
+
 **GitHub:** https://github.com/donacianojesus
